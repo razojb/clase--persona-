@@ -1,2 +1,0 @@
-# clase--persona-
-repositorio. cydia 
